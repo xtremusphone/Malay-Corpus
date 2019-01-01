@@ -1,6 +1,4 @@
-# Malay-Corpus
-Malay language speech corpus collection tool
-
+# Malay Corpus Speech Collection
 This project was part of my final year project which was Speech-to-Picture app.
 The web is up and alive at https://xtremusphone.github.io/Malay-Corpus/
 
